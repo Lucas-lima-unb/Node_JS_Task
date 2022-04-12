@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/Lucas-lima-unb/Node_JS_Task/blob/dca564469a6f17a65f6dbd9005d20e2fe2c9db8e/Logo_project.png">
+   <img src="https://github.com/Lucas-lima-unb/Node_JS_Task/blob/bc435acc29f02e433e04bb815279a4b99ae36502/Logo_project.png">
 </h1>
 <p align="center">🚀 Node JS Task</p>
 <p> <img src="https://img.shields.io/badge/license-MIT-blue"> <img src="https://img.shields.io/badge/npm-8.5.0-blue"></p>

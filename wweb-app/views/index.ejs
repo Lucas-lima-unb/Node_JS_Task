@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+<html lang="en">
+
+<head></head>
+
+<body>
+    <h1 class="text-center title-1"> Lista de Usu&aacute;rios </h1>
+    <ul>
+        <% docs.forEach((user)=> { %>
+            <li><a href="mailto:<%= user.email %>">
+                    <%= user.username %>
+                </a></li>
+            <%})%>
+    </ul>
+</body>
+
 </html>

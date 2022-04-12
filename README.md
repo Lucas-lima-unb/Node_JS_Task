@@ -7,7 +7,7 @@
 <h2> TASK DESCRIPTION</h2>
 
 <p> ✔️ Step1- Create an expressjs server </p>
-<p> ⏳ Step2- Connect mongodb atlas with this server </p>
+<p> ✔️ Step2- Connect mongodb atlas with this server </p>
 <p> ⏳ Step3- Create a user model with name email password image </p>
 <p> ⏳ Step4- Create an api get the data (name email password , image) and save it using mongodb </p>
 <p> ⏳ Step5- Password should be hashed using bycrypt js </p>
